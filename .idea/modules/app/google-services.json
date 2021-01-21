@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "508202987850",
+    "firebase_url": "https://dispo-c500e-default-rtdb.firebaseio.com",
+    "project_id": "dispo-c500e",
+    "storage_bucket": "dispo-c500e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508202987850:android:732de67e13e92a165dd1b3",
+        "android_client_info": {
+          "package_name": "com.lisa.dispoman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508202987850-08oqt2sinvnelei9o0rd3gbn60l6ecou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lisa.dispoman",
+            "certificate_hash": "ae06ab9e48116a76478b911da661292bf12a3431"
+          }
+        },
+        {
+          "client_id": "508202987850-8u701g2032gkdqd2rkbg40h04lsl8go7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIdpTDPkG0deYrQQ35bUj4GheJrbTTkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508202987850-8u701g2032gkdqd2rkbg40h04lsl8go7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dispo MAN 2</string>
+    <string-array name="alasan">
+        <item>Tidak hadir</item>
+        <item>Terlambat</item>
+        <item>Pulang sebelum waktu</item>
+        <item>Tidak berada di tempat tugas</item>
+        <item>Tidak mengisi daftar hadir</item>
+    </string-array>
+</resources>
